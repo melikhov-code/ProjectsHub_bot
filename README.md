@@ -16,11 +16,11 @@
 ### Выбираем статус проекта:
 <img width="953" height="537" alt="image" src="https://github.com/user-attachments/assets/7cf1e701-cfd9-492f-b990-82ebf658c9e6" />
 
-И проект сохранен!
+### И проект сохранен!
 <img width="943" height="166" alt="image" src="https://github.com/user-attachments/assets/9fe6aa77-2f26-4c4a-854b-73d85370d7ff" />
 
 ## Изменение информацию о проекте
-Для изменения информации о проекте используйте команды _/update_project_, и из списка выбираем проект:
+### Для изменения информации о проекте используйте команды _/update_project_, и из списка выбираем проект:
 <img width="954" height="244" alt="image" src="https://github.com/user-attachments/assets/20e51bd9-94b5-4401-b817-7e392f61598b" />
 
 ### Далее выбираем какую информацию хотим изменить:
