@@ -1,8 +1,8 @@
 import sqlite3
 from config import DATABASE
 
-skills = [ (_,) for _ in (['Python', 'SQL', 'API', 'Telegram'])]
-statuses = [ (_,) for _ in (['На этапе проектирования', 'В процессе разработки', 'Разработан. Готов к использованию.', 'Обновлен', 'Завершен. Не поддерживается'])]
+skills = [ (_,) for _ in (["Python", "SQL", "API", "Telegram"])]
+statuses = [ (_,) for _ in (["На этапе проектирования", "В процессе разработки", "Разработан. Готов к использованию", "Обновлен", "Завершен. Не поддерживается"])]
 
 class DB_Manager:
     def __init__(self, database):
@@ -126,5 +126,3 @@ if __name__ == '__main__':
     manager = DB_Manager(DATABASE)
     manager.create_tables()
     manager.default_insert()
-
-
