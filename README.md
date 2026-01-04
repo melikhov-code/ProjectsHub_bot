@@ -1,6 +1,6 @@
 # Projects Hub Telegram Bot
 ## Setup
-### Token
+### Token & Run
 1 step: in the telegram search for a bot @BotFather
 2 step: create a new bot and copy it's token
 3 step: in the file config paste your token into quotes in similar variable
@@ -13,3 +13,4 @@
 1. python
 2. telebot
 3. sqlite3
+
